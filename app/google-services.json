@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345890844441",
+    "project_id": "leitor-de-musica-b4441",
+    "storage_bucket": "leitor-de-musica-b4441.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345890844441:android:0c342fded2462056855f88",
+        "android_client_info": {
+          "package_name": "com.example.meumusicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7DJy-mQHyIDcogykjmHChLR6VI2SMvEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
